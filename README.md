@@ -1,4 +1,4 @@
-Run the following commands to scrap SIGA jobs and output in JSON format:
+Run the following commands to scrape SIGA jobs and output in JSON format:
 
 `yarn install`
 
